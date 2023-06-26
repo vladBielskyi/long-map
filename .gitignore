@@ -1,2 +1,9 @@
-.idea/
-long-map.iml
+/target
+.classpath
+.project
+.settings
+target
+/bin
+*.iml
+*.idea*
+/.idea
